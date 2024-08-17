@@ -1,2 +1,2 @@
-# Wallpaper3
-This is the third host for the wallpaper website
+# wallpaper2
+this is the second host for the wallpaper 
